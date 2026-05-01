@@ -1,38 +1,54 @@
-🎓 Campus Utility Hub: Lost & Found and Peer Tutoring Systems
-This repository contains two essential campus management modules designed to improve student life and academic collaboration: the Campus Lost & Found Management System and the Student Peer Tutoring & Session Tracking System.
+<div align="center">
 
-📦 Projects Overview
-🔍 1. Campus Lost & Found Management System
-A smart and centralized platform that helps students and university staff easily report, locate, and claim misplaced belongings.
+# 🎓 Campus Connect: Utility Systems
 
-Photo Uploads & Automated Matching: Users can upload images of lost or found items, and the system actively searches for potential matches.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-Secure Claiming Process: Claimants must verify their ownership by providing specific, detailed descriptions of the item.
+**A unified campus management platform designed to improve student life through a smart Lost & Found module and an integrated Peer Tutoring network.**
 
-Real-Time Status Tracking: Items are actively tracked using statuses such as Lost, Found, and Claimed.
+</div>
 
-Smart Notifications: Automated alerts notify users whenever there is a potential match for their reported missing item.
+---
 
-📚 2. Student Peer Tutoring & Session Tracking System
-A collaborative academic platform that connects students needing academic assistance with qualified peer tutors.
+## 📖 About The Project
 
-Tutor Registration & Subject Matching: Students can register as tutors for specific subjects they excel in.
+This repository contains two essential campus management modules built to foster collaboration, security, and academic excellence within the university:
 
-Seamless Booking: Students can easily search for tutors and book academic support sessions.
+1. **Campus Lost & Found Management System**
+2. **Student Peer Tutoring & Session Tracking System**
 
-Session & Performance Tracking: The system logs completed sessions and tracks tutor performance through a comprehensive rating system.
+### ✨ Key Features
 
-Incentivization: Features a built-in reward system to recognize and encourage active, high-performing peer tutors.
+#### 🔍 Campus Lost & Found
+* **Smart Matching & Photo Uploads:** Users can report lost or found items by uploading images. The system actively analyzes reports to find potential matches.
+* **Ownership Verification:** To prevent theft, claimants must verify ownership by providing detailed, specific descriptions of the item before approval.
+* **Real-Time Status Tracking:** Items are clearly tagged with statuses (`Lost`, `Found`, `Claimed`).
+* **Automated Notifications:** Users receive instant alerts when there is a potential match for their reported missing item.
 
-👥 The Team
-This project was collaboratively developed by:
+#### 📚 Student Peer Tutoring
+* **Tutor Registration & Matching:** Students who excel in specific subjects can register as tutors, allowing peers to find help based on course needs.
+* **Seamless Booking:** A clean interface for students to schedule and book tutoring sessions.
+* **Performance Tracking & Ratings:** The system logs completed sessions and allows tutees to rate their tutors, ensuring quality assistance.
+* **Reward System:** Built-in incentivization to recognize and reward highly active and top-rated peer tutors.
 
-Stephen Ace Sy
+---
 
-Czarevna Alexandria
+## 💻 Built With
 
-Rob A. Merdz
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) *(Example - Replace with your actual stack)*
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) *(Example)*
+* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) *(Example)*
 
-Andrew De Jesus
+---
 
-Daisy Castillote
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+* npm
+  ```sh
+  npm install npm@latest -g
