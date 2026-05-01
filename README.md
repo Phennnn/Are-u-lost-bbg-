@@ -2,10 +2,6 @@
 
 # 🎓 Campus Connect: Utility Systems
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 **A unified campus management platform designed to improve student life through a smart Lost & Found module and an integrated Peer Tutoring network.**
 
